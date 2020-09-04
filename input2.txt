@@ -1,0 +1,7 @@
+6
+Seattle,Seattle(150.0),
+New York,Dallas(560.0),
+Chicago,Seattle(672.5),New York(680.5),
+Dallas,Boston(400.0),
+Atlanta,Dallas(456.5),Boston(350.5),
+Boston,New York(220.75),

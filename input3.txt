@@ -1,0 +1,11 @@
+10
+Kansas,Chicago(289.0),
+Miami,Phoenix(489),
+Chicago,Houston(598.0),
+Phoenix,Miami(607.0),
+Boston,El Paso(1022.0),New York(278.0),
+Atlanta,Kansas(491.0),Dallas(293.0),Chicago(298.0),
+New York,Atlanta(439.0),
+Dallas,New York(423.0),Miami(479),
+El Paso,New York(746.0),
+Houston,Kansas(408.0),

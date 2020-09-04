@@ -1,0 +1,4 @@
+3
+Boston,Dallas(672.5),
+Dallas,Dallas(120),
+Atlanta,Dallas(456),Boston(350.5),
